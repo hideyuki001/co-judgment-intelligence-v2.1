@@ -54,6 +54,9 @@ Released under the **MIT License** — free for use, research, and adaptation wi
 ---
 
 ###📊 Workflow Overview
+### 📊 Workflow Overview
+
+```text
 ┌─────────────────────────────────────────────┐
 │  User Intent & Context                     │
 └─────────────────────────────────────────────┘
@@ -108,3 +111,4 @@ Released under the **MIT License** — free for use, research, and adaptation wi
 │  → Integrate user values, confirm           │
 │    priorities, and finalize decision.       │
 └─────────────────────────────────────────────┘
+```
