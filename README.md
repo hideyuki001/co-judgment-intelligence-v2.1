@@ -1,4 +1,12 @@
 # 🛡️ Co-Judgment Intelligence v2.1
+<!-- 🛡️ Co-Judgment Intelligence Badges -->
+
+[![Release](https://img.shields.io/github/v/release/hideyuki001/co-judgment-intelligence-v2.1?color=blue&label=Release)](https://github.com/hideyuki001/co-judgment-intelligence-v2.1/releases/latest)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![GitHub issues](https://img.shields.io/github/issues/hideyuki001/co-judgment-intelligence-v2.1)](https://github.com/hideyuki001/co-judgment-intelligence-v2.1/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/hideyuki001/co-judgment-intelligence-v2.1?color=orange)](https://github.com/hideyuki001/co-judgment-intelligence-v2.1/commits/main)
+[![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://www.markdownguide.org/)
+[![Quality Gate](https://img.shields.io/badge/RoPE%2FEUQS-Verified%20v2.1.1-8A2BE2)](https://github.com/hideyuki001/co-judgment-intelligence-v2.1/releases/tag/v2.1.1)
 
 **Collaborative Reasoning System for Safe and Transparent Decisions**
 
