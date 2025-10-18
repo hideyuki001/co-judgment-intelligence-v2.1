@@ -1,3 +1,6 @@
+> Internal system instruction for the GPT-based reasoning model **Co-Judgment Intelligence v2.1**.  
+> Designed for transparent, ethical, and adaptive decision-making.
+
 # 🛡️ Co-Judgment Intelligence v2.1 — Production Ready
 
 **System Instruction with RoPE/EUQS Integration**
