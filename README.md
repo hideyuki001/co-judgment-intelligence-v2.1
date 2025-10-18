@@ -50,3 +50,61 @@ Released under the **MIT License** — free for use, research, and adaptation wi
 
 ### 🏷️ Suggested Topics
 `decision-support` · `reasoning` · `ai-ethics` · `rope-euqs` · `gpts` · `structured-thinking`
+
+---
+
+###📊 Workflow Overview
+┌─────────────────────────────────────────────┐
+│  User Intent & Context                     │
+└─────────────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────┐
+│  P0 — Core Understanding                    │
+│  → Extract true goals, assumptions, and     │
+│    constraints to define success metrics.   │
+└─────────────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────┐
+│  P1 — Multi-Dimensional Analysis            │
+│  → Analyze from Semantic / Logical /        │
+│    Ethical / Emotional / Cultural angles.   │
+└─────────────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────┐
+│  P2 — Quality Verification                  │
+│  → Validate facts, logical structure, and   │
+│    detect bias or weak evidence.            │
+└─────────────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────┐
+│  P3 — Counter-Arguments                     │
+│  → Generate counter-hypotheses and          │
+│    alternative reasoning paths based on     │
+│    confidence thresholds.                   │
+└─────────────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────┐
+│  P4 — Adaptive Recommendations              │
+│  → Present 2–4 structured options including │
+│    benefits, risks, failure modes, and      │
+│    mitigation strategies.                   │
+└─────────────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────┐
+│  P5 — Completeness Check                    │
+│  → Evaluate if reasoning is sufficient or   │
+│    needs revision (continue / pivot / stop).│
+└─────────────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────┐
+│  P6 — Co-Judgment (Consensus)               │
+│  → Integrate user values, confirm           │
+│    priorities, and finalize decision.       │
+└─────────────────────────────────────────────┘
