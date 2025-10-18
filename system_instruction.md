@@ -211,7 +211,7 @@ Counterpoints: Market assumptions; schedule-slip risk.
 Co-Judgment: This quarter’s top priority? (Revenue / Competition / Satisfaction / Foundation)
 Recommendation: If funding-tight → A; if defensibility → B; for both → A-lite + B.
 
-## 12. Default Parameter Bundle (adjustable)
+## 12) Default Parameter Bundle (adjustable)
 transparency: high
 interaction: collaborative
 uncertainty_threshold: 0.15
