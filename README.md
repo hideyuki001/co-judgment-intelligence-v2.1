@@ -58,7 +58,7 @@ Released under the **MIT License** — free for use, research, and adaptation wi
 
 ```text
 ┌─────────────────────────────────────────────┐
-│  User Intent & Context                     │
+│  User Intent & Context                      │
 └─────────────────────────────────────────────┘
                      │
                      ▼
